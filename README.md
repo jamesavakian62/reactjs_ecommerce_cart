@@ -1,8 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ReactJS eCommerce Cart
 
-## Available Scripts
+![Screen Shot 2022-09-02 at 11 16 47 AM](https://user-images.githubusercontent.com/92414210/188214382-cacc20f4-03b5-44dd-b1ec-666722a3a932.png)
+![Screen Shot 2022-09-02 at 11 17 07 AM](https://user-images.githubusercontent.com/92414210/188214389-6e766043-1855-49d9-b12d-b7aa5fca6190.png)
+
 
 In the project directory, you can run:
 
